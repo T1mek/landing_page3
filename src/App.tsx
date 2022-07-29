@@ -13,6 +13,8 @@ function App() {
           <div className="main">
             <h1>NIKE AIR MAX 95</h1>
             <h5>€417</h5>
+          
+
           </div>
           <p>
             Taking inspiration from the human body and '90s athletics
@@ -22,11 +24,14 @@ function App() {
             performance comfort.
           </p>
           <button>SEE DETAILS</button>
+          <img className="cart" src="/img/cart.png" alt="" />
         
         </div>
         
         
+        
       </div>
+      
     </>
   );
 }

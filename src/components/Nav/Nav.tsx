@@ -7,9 +7,9 @@ const Nav = () => {
       <img src="/img/logo.png" alt="" />
       
         <ul className="list">
-          <li>Contacts</li>
-          <li>Catalog</li>
           <li>Home</li>
+          <li>Catalog</li>
+          <li>Contacts</li>
         </ul>
       
     </div>
